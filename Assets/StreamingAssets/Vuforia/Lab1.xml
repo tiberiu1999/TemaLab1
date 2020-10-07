@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="100" size="0.300000 0.148851" />
+    <ImageTarget name="dollar" size="0.500000 0.209286" />
+    <ImageTarget name="tibi" size="0.170000 0.226276" />
+    <ImageTarget name="Mark2" size="0.150000 0.159961" />
+    <ImageTarget name="mark" size="0.150000 0.209211" />
+    <ImageTarget name="obama" size="0.150000 0.097200" />
+    <ImageTarget name="123456" size="0.150000 0.088055" />
+  </Tracking>
+</QCARConfig>
